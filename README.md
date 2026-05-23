@@ -3,6 +3,9 @@
 I'm Sondre, a Frontend Development student based in Norway.
 
 - I mainly learn how to code through Noroff, School of tecknology and digital media, and other random places on the Internet.
+- My skillset is basic html, css and js.
+- I am interested in potential jobs or other work related stuff.
+ 
 ### Fun facts about me:
 - I love cats, gaming, music and Asian culture with emphasis on Japanese and Korean culture, and Chinese to some extent.
 - If you've read this far (Thanks!), then reach out to me via Linkedin messages, and let's chat! ✅
