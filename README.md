@@ -2,13 +2,27 @@
 
 I'm Sondre, a Frontend Development student based in Norway.
 
-- I mainly learn how to code through Noroff, School of tecknology and digital media, and other random places on the Internet.
-- My skillset is basic html, css and js.
-- I am interested in potential jobs or other work related stuff.
- 
-### Fun facts about me:
-- I love cats, gaming, music and Asian culture with emphasis on Japanese and Korean culture, and Chinese to some extent.
-- If you've read this far (Thanks!), then reach out to me via Linkedin messages, and let's chat! ✅
+I mainly learn how to code through Noroff, School of tecknology and digital media, and other random places on the Internet.
+
+## Tools & Tech
+
+- HTML, CSS and JS. 
+- Figma for UI design.
+
+## Projects and future plans
+
+I have plans to look more into projects like The Odin Project during my holiday.
+
+I am interested in potential jobs offers and changing career.
+
+If you've read this far, then you should definetly reach out to me via Linkedin messages. Let's get connected! ✅
+
+# About me:
+- I have 2 cats.
+- My dream is to make a living through coding.
+- I have expeience in leadership as a leader, administrative work, and HR.
+- Hobbies: Gaming, gym, anime, learn stuff from the internet
+
 
 <!--
 **SondreGundersrud/SondreGundersrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
