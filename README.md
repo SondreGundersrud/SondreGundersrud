@@ -13,7 +13,7 @@ I mainly learn how to code through Noroff, School of tecknology and digital medi
 
 I have plans to look more into projects like The Odin Project during my holiday.
 
-I am interested in potential jobs offers and changing career.
+I am interested in potential job offers and changing career.
 
 If you've read this far, then you should definetly reach out to me via [Linkedin messages](https://www.linkedin.com/in/sondre-gundersrud/). Let's get connected! ✅
 
