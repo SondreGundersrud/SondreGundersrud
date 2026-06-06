@@ -17,7 +17,7 @@ I am interested in potential job offers and changing career.
 
 If you've read this far, then you should definetly reach out to me via [Linkedin messages](https://www.linkedin.com/in/sondre-gundersrud/). Let's get connected! ✅
 
-# About me:
+## About me:
 - My dream is to make a living through coding.
 - I have expeience in leadership as a leader, administrative work, and HR.
 - Hobbies: Gaming, gym, anime, learn stuff from the internet
