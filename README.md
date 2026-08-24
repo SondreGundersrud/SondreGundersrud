@@ -2,16 +2,14 @@
 
 I'm Sondre, a Frontend Development student based in Norway.
 
-I mainly learn how to code through Noroff, School of tecknology and digital media, and other random places on the Internet.
+I mainly learn how to code through Noroff - School of tecknology and digital media, YouTube, and other random places on the Internet.
 
 ## Tools & Tech
-
+- Currently learning TypeScript
 - HTML, CSS and JS. 
 - Figma for UI design.
 
 ## Projects and future plans
-
-I have plans to look more into projects like The Odin Project during my holiday.
 
 I am interested in potential job offers and changing career.
 
